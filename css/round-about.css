@@ -16,6 +16,9 @@ body {
 .purple {
 	background-color: #c242f4;
 }
+h1 {
+	text-align: center;
+}
 h2	{
 	text-align: center;
 	font-size: 18px;
